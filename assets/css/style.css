@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/hip-square.png");
+}
+
+p {
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 20px;
+}
+#CC {
+    font-family: 'Yantramanav', sans-serif;
+}
+
+footer {
+    position: relative;
+    width: 100%;
+     
+}
+
+
+#boxText {
+    height: 185px;
+}
+
+
+
